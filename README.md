@@ -4,7 +4,7 @@
 
 - 💻 Always Learning
 - 🔭 I’m currently learning Javascript (Programming Language)
-- 🌱 2022 Goals: Get involved in a project from a country across the sea
+- 🌱 2022 Goals: Undertanding the core concept in programming specially in javascript
 
 ## Connect with me <img src="https://github.com/baihakhi/baihakhi/blob/main/Assets/Handshake.gif" width="50px"/>
 
