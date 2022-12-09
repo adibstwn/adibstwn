@@ -3,8 +3,8 @@
 ### I'm a learner and highly interested in tech
 
 - 💻 Always Learning
-- 🔭 I’m currently learning Javascript (Programming Language)
-- 🌱 2022 Goals: Undertanding the core concept in programming specially in javascript
+- 🔭 I’m currently learning Javascript And C# (Programming Language)
+- 🌱 2022 Goals: Undertanding the core concept in programming.
 
 ## Connect with me <img src="https://github.com/baihakhi/baihakhi/blob/main/Assets/Handshake.gif" width="50px"/>
 
