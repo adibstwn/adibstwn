@@ -59,6 +59,6 @@ Enthusiastic self-taught Backend Developer since 2021 and highly interested in t
 
 [//]: # (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=adibstwn&hide=html&#41;)
 [//]: # (<br />)
-![titan2903 github stats](https://github-readme-stats.vercel.app/api?username=adibstwn&show_icons=true&count_private=true&line_height=33.5)
+![titan2903 github stats](https://github-readme-stats.vercel.app/api?username=adibstwn&show_icons=true&count_private=true&line_height=30.5)
 
 <br />
